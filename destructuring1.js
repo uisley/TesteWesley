@@ -11,6 +11,6 @@ const {nome, idade} = pessoa
 console.log(nome, idade)
 
 const { endereco:{lugradouro, numero}} = pessoa
-console.log( lugradouro, numero) 
+console.log( lugradouro, numero)
 
- Mudou alguma coisa???
+/*Salve!*/
