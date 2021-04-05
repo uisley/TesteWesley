@@ -12,3 +12,5 @@ console.log(nome, idade)
 
 const { endereco:{lugradouro, numero}} = pessoa
 console.log( lugradouro, numero)
+
+/*Salve!*/
